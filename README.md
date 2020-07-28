@@ -1,3 +1,57 @@
+# Ravenous business search app
+This project works using Yelp API and enables business search in the following coutries:<br />
+<br />
+Argentina <br />
+Australia<br />
+Austria<br />
+Belgium<br />
+Brazil<br />
+Canada<br />
+Chile<br />
+Czech Republic<br />
+Denmark<br />
+Finland<br />
+France<br />
+Germany<br />
+Hong Kong<br />
+Italy<br />
+Japan<br />
+Malaysia<br />
+Mexico <br />
+New Zeland<br />
+Norway<br />
+Philippines<br />
+Poland <br />
+Portugal<br />
+Republic of Ireland<br />
+Singapore<br />
+Spain<br />
+Switzerland<br />
+Taiwan<br />
+The Netherlands<br />
+Turkey<br /> 
+United Kingdom <br />
+United States<br />
+
+
+
+## Available Businesses
+You can find almost any type of local business on Ravenous. Use the search bar near the top of your screen to search for key terms (e.g., burger, plumber, delivery/takeout or the name of a specific business). Use the location bar to set the geographic region you want to search (e.g., city, neighborhood, country, etc).
+
+## Filtering search results
+You have 3 options available to fine-tune your results: 
+- Best Match<br/>
+- Highest Rated<br/>
+- Most Reviewed<br/>
+
+## List of Results
+Once the search is over, the list of businesses matching your search criterias  will be shown below search bar. 
+- Click on the photo to get the detailed information about the business on the Yelp website
+- Click on the address to get the directions on Google Maps
+- Type in new search to move on
+
+---------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
